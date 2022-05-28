@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @viicsousa
-- 👀 I’m interested in learn programming
-- 🌱 I’m currently learning  JavaScript, HTML, CSS and Python
-- 📫 How to reach me victoria.vasconcelos@hotmail.com
+
 
 <div align="center">
   <a href="https://github.com/viicsousa">
