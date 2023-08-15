@@ -10,7 +10,6 @@
 <h3 align="left">Conectar comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/victória vasconcelos de sousa aguiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victória vasconcelos de sousa aguiar" height="30" width="40" /></a>
-<a href="https://discord.gg/viic#8319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="viic#8319" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens:</h3>
